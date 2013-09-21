@@ -1,0 +1,17 @@
+{
+  "name": "component-animate-cubic-bezier-curve",
+  "version": "0.0.1",
+  "dependencies": {
+    "component/inherit": "*",
+    "component/raf": "*",
+    "kelonye/component-grid": "*"
+  },
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js"
+  ],
+  "styles": [
+    "lib/style.css"
+  ],
+  "license": "MIT"
+}
